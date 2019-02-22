@@ -1,0 +1,15 @@
+D:\projects\sharp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\projects\sharp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\projects\sharp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\projects\sharp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
